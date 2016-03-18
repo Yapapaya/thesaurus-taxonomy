@@ -14,7 +14,7 @@ class TaxonomyTypes {
 
 	
 	/**
-	 * Wrapper for register_taxonomy
+	 * Wrapper for register_taxonomy, with the ability to add thesaural meaning
 	 * 
 	 * @since 0.1
 	 * 

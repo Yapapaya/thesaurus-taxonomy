@@ -10,7 +10,7 @@ class TaxonomyTypes {
 	/**
 	 * 
 	 */
-	const TYPES = array( 'equivalent', 'associated', 'opposite' );
+	const TYPES = 'equivalent, associated, opposite';
 
 	
 	/**
